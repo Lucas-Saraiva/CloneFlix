@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0%;
+}
+
+body {
+    color: white;
+    font-family: serif;
+    text-align: center;
+}
+
+background {
+    background-size: auto;
+}
+
+#name {
+    width: 350px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+
+.BotaoEnviar {
+    font-size: 18px;
+    font-weight: bolder;
+    background-color: red;
+    padding: 15px;
+    border-radius: 6px;
+}
+
+.main {
+    padding: 150px 250px;
+    background: url("/Site/Imagens/background_imagem.jpg") center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main h1 {
+    font-size: 60px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.main h2 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.main h3 {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.main-child {
+    z-index: 1;
+    display: grid;
+    justify-items: center;
+}
+
+.gradient {
+    background: rgba(0, 0, 0, 1);
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.space_one {
+    padding: 150px 50px;
+    background-color: black;
+}
+
+.space_one h1 {
+    text-align: left;
+    font-size: 40px;
+}
+
+.space_one h2 {
+    text-align: left;
+    font-size: 15px;
+}
+
+img#img_fantasma {
+    margin-left: 85%;
+    width: 250px;
+    height: 220px;
+}
+
+.space_two {
+    padding: 150px 50px;
+    background-color: black;
+}
+
+.space_two h1 {
+    text-align: right;
+    font-size: 40px;
+}
+
+.space_two h2 {
+    text-align: right;
+    font-size: 15px;
+}
+
+img#img_luva {
+    margin-right: 85%;
+    width: 150px;
+    height: 180px;
+}

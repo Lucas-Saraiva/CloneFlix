@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: white;
+    font-family: serif;
+    text-align: center;
+    background-color: black;
+}
+
+hr {
+    border-width: 5px;
+    color: white;
+}
+
+img#img-cabeca {
+    width: 100%;
+    height: 75%;
+}
+
+.menu li {
+    background-color: black;
+    font-weight: bold;
+    font-size: 40px;
+    width: 100%;
+    height: 0px;
+    display: inline-table;
+    text-align: left;
+    line-height: 50px;
+}
+
+.catalogo {
+    background-image: url("/Site/Imagens/fundo_catalogo.png");
+}
+
+.catalogo hr {
+    width: 250px;
+    border-width: 5px;
+    color: white;
+}
+
+.catalogo h1 {
+    font-size: 25px;
+    text-align: left;
+}
+
+img#img-rei-leao {
+    width: 150px;
+    height: 200px;
+}
+
+img#img-scooby-do {
+    width: 150px;
+    height: 200px;
+}
+
+img#img-watchmen {
+    width: 158px;
+    height: 200px;
+}
+
+img#img-truque {
+    width: 138px;
+    height: 200px;
+}
+
+img#img-matrix {
+    width: 145px;
+    height: 200px;
+
+}
+
+img#img-futuro2 {
+    width: 142px;
+    height: 200px;
+
+}
+
+img#img-futuro3 {
+    width: 142px;
+    height: 200px;
+
+}
+
+img#img-panda3 {
+    width: 142px;
+    height: 200px;
+
+}
+
+img#img-dragao1 {
+    width: 142px;
+    height: 200px;
+
+}
+
+.recomendacoes {
+    background-image: url("/Site/Imagens/fundo_catalogo.png");
+}
+
+.recomendacoes hr {
+    width: 250px;
+    border-width: 5px;
+    color: white;
+}
+
+.recomendacoes h1 {
+    font-size: 25px;
+    text-align: left;
+}
+
+.familia {
+    background-image: url("/Site/Imagens/fundo_catalogo.png");
+}
+
+.familia hr {
+    width: 250px;
+    border-width: 5px;
+    color: white;
+}
+
+.familia h1 {
+    font-size: 25px;
+    text-align: left;
+}
